@@ -1,0 +1,8 @@
+# venv stuff
+/bin
+/include
+/lib
+/lib64
+
+# pycache
+pyvenv.cfg
